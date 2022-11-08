@@ -1,7 +1,8 @@
 import pandas as pd
 
 
-
+# this script has to be run before the "clean_spotify_dataset.ipynb" notebook.
+# Please make sure you adapt the path before running this script.
 
 def main():
     data = pd.read_csv("data/charts.csv", engine = "c")
