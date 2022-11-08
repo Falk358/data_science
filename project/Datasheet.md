@@ -1,8 +1,9 @@
 # Datasheet
 ## Dataset: Spotify Charts
 ### Description:
-Is a dataset of all daily hit charts curated by Spotify.
-Source: https://www.kaggle.com/datasets/dhruvildave/spotify-charts 
+Is a dataset of all daily hit charts curated by Spotify.  
+Source: [Spotify Charts](https://www.kaggle.com/datasets/dhruvildave/spotify-charts)  
+
 The dataset holds all the Top 200 and Viral 50 charts published by Spotify. A new chart is published every 2-3 days. This collection includes charts from the beginning of January 1, 2017 up until December 31, 2021. 
 
 Detailed description of the dataset’s columns:
@@ -33,8 +34,9 @@ Since the dataset was collected from another user on Kaggle, the data collecting
 ## Billboard Top 100
 ### Description:
 Is a collection of the Top 100 charts on Billboard.
-Source of the dataset: https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs 
-Source Billboard: https://www.billboard.com/ 
+Source of the dataset: [Billboard the Hot 100 Songs](https://www.kaggle.com/datasets/dhruvildave/billboard-the-hot-100-songs)  
+Source Billboard: [Billboard Website](https://www.billboard.com/)  
+
 The Billboard Hot 100 is the music industry standard record chart in the United States for songs, published weekly by Billboard magazine. Chart rankings are based on sales, radio play, and online streaming in the United States.
 Every week, Billboard releases "The Hot 100" chart of songs that were trending on sales and airplay for that week. This dataset is a collection of all "The Hot 100" charts released since its inception in 1958.
 Detailed description of the dataset’s columns:
