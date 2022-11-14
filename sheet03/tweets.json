@@ -1,4 +1,4 @@
-{
+[{
     "id": "1591843076821385217",
     "public_metrics": {
         "retweet_count": 12,
@@ -123197,4 +123197,5 @@
         "like_count": 0,
         "quote_count": 0
     }
-},
+}
+]

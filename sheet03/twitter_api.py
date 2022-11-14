@@ -29,6 +29,8 @@ if __name__ == '__main__':
 
     # write to json file
     with open('tweets.json', 'a', encoding='utf-8') as output_file:
+        print("[", output_file, indent = 4) #add as list so we can read into dataframe
         for tweet in tweets:
             json.dump(tweet.data, output_file, indent=4)
             print(",", file=output_file)
+        print("]", output_file, indent = 4)
