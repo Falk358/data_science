@@ -35,6 +35,7 @@ cookiecutter = "*"
 pingouin = "*"
 nltk = "*"
 mlxtend = "*"
+stop-words="*"
 
 [dev-packages]
 
